@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="varonis">Varonis</string>
+    <string name="datanywhere">Dataanywhere</string>
+    <string name="app_name">Android</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="logout">Đăng Xuất</string>
+    <string name="access">Truy cập</string>
+    <string name="yesorno">Bạn có chắc chắn muốn thoát</string>
+    <string name="checkLogin">Bạn hãy nhập tên đăng nhập và mật khẩu là : admin</string>
+    <string name="inputDataError">Website chưa được nhập</string>
+</resources>
